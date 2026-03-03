@@ -27,7 +27,8 @@ Seoul Talents is a Korea-themed marketing, creator network, and virtual staffing
 
 ## Authors
 
-**Nash Ang**
+**Nash Ang**  
+CEO of Pinoyseoul Media Enterprise
 
 **Louie Estella**  
 Intern — Campaign Coordinator Support  
