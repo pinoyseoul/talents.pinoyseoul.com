@@ -25,12 +25,12 @@ Seoul Talents is a Korea-themed marketing, creator network, and virtual staffing
 
 ---
 
-## Author
+## Authors
+
+**Nash Ang**
 
 **Louie Estella**  
-Network Director, PinoySeoul Media Enterprise
-
-**Intern** — Campaign Coordinator Support  
+Intern — Campaign Coordinator Support  
 Website staging, deployment, and ongoing maintenance
 
 **Web Design** — Antigravity AI (Google DeepMind)
