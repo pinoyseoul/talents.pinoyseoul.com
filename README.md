@@ -2,7 +2,7 @@
 
 **Where Brands Meet Korean Influence — With Full Marketing Power and Dedicated Talent.**
 
-Seoul Talents is a Korea-themed marketing, creator network, and virtual staffing platform powered by [PinoySeoul Media Enterprise](https://pinoyseoul.com). We connect businesses with content creators who specialize in Korean culture, offer full social media marketing services, and provide bilingual virtual assistant staffing.
+Seoul Talents is an AI-assisted cross-border creative workflow and talent platform powered by [PinoySeoul Media Enterprise](https://pinoyseoul.com). We connect international brands with specialized Southeast Asian content creators, deliver full-service digital marketing campaigns, and provide dedicated remote creative operations talent.
 
 🌐 **Live Site:** [talents.pinoyseoul.com](https://talents.pinoyseoul.com)
 
@@ -11,8 +11,8 @@ Seoul Talents is a Korea-themed marketing, creator network, and virtual staffing
 ## Services
 
 - **Creator Campaigns** — Authentic K-culture content creators produce branded content for your business
-- **Social Media Management** — Full-service SMM with Korean cultural expertise and 190K+ community amplification
-- **Virtual Staffing** — Bilingual remote staff for admin, marketing, tech, and everything in between
+- **Social Media Management** — Full-service SMM with Korean cultural expertise and 200K+ community amplification
+- **Dedicated Remote Operations** — Bilingual creative specialists for video editing, social media, localization, and digital growth
 
 ---
 
@@ -30,11 +30,8 @@ Seoul Talents is a Korea-themed marketing, creator network, and virtual staffing
 **Nash Ang**  
 CEO of Pinoyseoul Media Enterprise
 
-**Louie Estella**  
-Intern — Campaign Coordinator Support  
-Website staging, deployment, and ongoing maintenance
-
-**Web Design** — Antigravity AI (Google DeepMind)
+**PinoySeoul Engineering & Growth Team**  
+Platform operations, campaign coordination, and digital deployment.
 
 ---
 
@@ -45,4 +42,4 @@ Serving the Korean-Filipino community since 2017.
 
 ---
 
-© 2025 Seoul Talents. A service of PinoySeoul Media Enterprise. All rights reserved.
+© 2026 Seoul Talents. A service of PinoySeoul Media Enterprise. All rights reserved.
