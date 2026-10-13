@@ -1,5 +1,5 @@
 /* ============================================
-   Seoul Talents — JavaScript
+   Seoul Talents: JavaScript
    Handles: navbar scroll, mobile menu, pricing tabs,
    stat counter animation, scroll reveal
    ============================================ */

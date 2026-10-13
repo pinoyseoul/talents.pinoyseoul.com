@@ -1,6 +1,6 @@
-# Seoul Talents — Landing Page
+# Seoul Talents: Landing Page
 
-**Where Brands Meet Korean Influence — With Full Marketing Power and Dedicated Talent.**
+**Where Brands Meet Korean Influence: Full Marketing Power and Dedicated Creative Talent.**
 
 Seoul Talents is an AI-assisted cross-border creative workflow and talent platform powered by [PinoySeoul Media Enterprise](https://pinoyseoul.com). We connect international brands with specialized Southeast Asian content creators, deliver full-service digital marketing campaigns, and provide dedicated remote creative operations talent.
 
@@ -10,9 +10,9 @@ Seoul Talents is an AI-assisted cross-border creative workflow and talent platfo
 
 ## Services
 
-- **Creator Campaigns** — Authentic K-culture content creators produce branded content for your business
-- **Social Media Management** — Full-service SMM with Korean cultural expertise and 200K+ community amplification
-- **Dedicated Remote Operations** — Bilingual creative specialists for video editing, social media, localization, and digital growth
+- **Creator Campaigns**: Authentic K-culture content creators produce branded content for your business
+- **Social Media Management**: Full-service SMM with Korean cultural expertise and 200K+ community amplification
+- **Dedicated Remote Operations**: Bilingual creative specialists for video editing, social media, localization, and digital growth
 
 ---
 
@@ -25,10 +25,7 @@ Seoul Talents is an AI-assisted cross-border creative workflow and talent platfo
 
 ---
 
-## Authors
-
-**Nash Ang**  
-CEO of PinoySeoul Media Enterprise
+## Platform Operations & Maintenance
 
 **PinoySeoul Engineering & Growth Team**  
 Platform operations, campaign coordination, and digital deployment.
