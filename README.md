@@ -28,7 +28,7 @@ Seoul Talents is an AI-assisted cross-border creative workflow and talent platfo
 ## Authors
 
 **Nash Ang**  
-CEO of Pinoyseoul Media Enterprise
+CEO of PinoySeoul Media Enterprise
 
 **PinoySeoul Engineering & Growth Team**  
 Platform operations, campaign coordination, and digital deployment.
